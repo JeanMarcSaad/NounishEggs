@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #94",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/94.png",
+  "dna": "eea1b39d39372ab4a089309a47132aff078a273e",
+  "edition": 94,
+  "date": 1650396777942,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareguava"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

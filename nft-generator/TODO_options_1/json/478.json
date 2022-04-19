@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #478",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/478.png",
+  "dna": "b2fa2259b108f3a2d2a58fde095982e787899612",
+  "edition": 478,
+  "date": 1650396941113,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarepinkpurplemulti"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

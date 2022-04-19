@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #27",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/27.png",
+  "dna": "e1503b39aacb9430322e878e852bb9f97da50f98",
+  "edition": 27,
+  "date": 1650396748107,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Multicolor1"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareyellowsaturated"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

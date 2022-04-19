@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #378",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/378.png",
+  "dna": "521fea88da5ed3217a37f5ebdac7f2d5982e5359",
+  "edition": 378,
+  "date": 1650396899185,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareteal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

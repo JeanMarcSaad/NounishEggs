@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #491",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/491.png",
+  "dna": "3cb286678f5426950166a7e061c985632c438325",
+  "edition": 491,
+  "date": 1650396946549,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareorange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

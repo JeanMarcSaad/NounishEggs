@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #447",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/447.png",
+  "dna": "978c517a15af3ba10d05f7a1f436ff6ed4b1a586",
+  "edition": 447,
+  "date": 1650396928198,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Duo"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "DotPurple"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquaresmoke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

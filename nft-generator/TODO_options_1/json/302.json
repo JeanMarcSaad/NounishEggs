@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #302",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/302.png",
+  "dna": "4ed1852f9991e992aa8712c4481dbb7362e27746",
+  "edition": 302,
+  "date": 1650396867241,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Duo"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

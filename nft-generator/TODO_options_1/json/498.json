@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #498",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/498.png",
+  "dna": "2f952d7f99cd4c8dacdb01d80dfd2bbf5f356ce1",
+  "edition": 498,
+  "date": 1650396949543,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Bubble"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "GradientSpots1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarefullblack"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #423",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/423.png",
+  "dna": "cb1bc3bac863ace6a2a8876c7a06b3e774cf4917",
+  "edition": 423,
+  "date": 1650396918084,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarewatermelon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

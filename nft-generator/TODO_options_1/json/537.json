@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #537",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/537.png",
+  "dna": "43d1f1656c55ccd26e97b02c569aebb8eb2de9fa",
+  "edition": 537,
+  "date": 1650396965824,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glasseshiprose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

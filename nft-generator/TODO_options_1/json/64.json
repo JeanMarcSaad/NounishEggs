@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #64",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/64.png",
+  "dna": "d1ac499e38f2244890d3a9ec1ce26f55be643d24",
+  "edition": 64,
+  "date": 1650396764338,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "RainbowStripes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarewatermelon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #57",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/57.png",
+  "dna": "33ba20c8c7465c64901a91238f2648ed5e841ca6",
+  "edition": 57,
+  "date": 1650396761145,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Fuscia"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Striped1"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "BlueStripes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

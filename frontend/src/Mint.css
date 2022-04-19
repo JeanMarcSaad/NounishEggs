@@ -1,0 +1,40 @@
+.Mint {
+
+}
+
+.Mint-Counter {
+}
+
+.Mint-ConnectButton {
+    width: 85vw;
+    height: 5vh;
+    background-color: white;
+    /* border: none; */
+    font-family: PixelBit;
+    font-size: 5vmin;
+}
+
+.mint-select {
+    flex: 0.8;
+    font-size: 14pt;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 5vh;
+    width: 50vw;
+
+}
+
+.mint-button {
+    flex: 0.5;
+    width: 30vw;
+    height: 5vh;
+    /* margin-left: 20%; */
+
+    font-size: 16pt;
+    font-family: PixelBit;
+
+    color: black;
+    outline: none;
+    background-color: white;
+}

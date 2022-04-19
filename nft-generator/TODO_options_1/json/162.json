@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #162",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/162.png",
+  "dna": "6a08357fa522591489a67fb43e96808aa3fdc78f",
+  "edition": 162,
+  "date": 1650396806880,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "holographic"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "PinkSpotscopy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarefroggreen"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #1",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "bb4efdfa09a0a89bb5ad5073e6dc3b6c3bfa49ea",
+  "edition": 1,
+  "date": 1650396736811,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarered"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

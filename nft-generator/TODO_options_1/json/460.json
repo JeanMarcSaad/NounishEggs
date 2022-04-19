@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #460",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/460.png",
+  "dna": "32c01a1e93dc811d09f355465e63b1827d4a80be",
+  "edition": 460,
+  "date": 1650396933653,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Duo"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarefullblack"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

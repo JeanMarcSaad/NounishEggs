@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #435",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/435.png",
+  "dna": "b8f4bca8c3ad85b4b67df88e0934039567f467b6",
+  "edition": 435,
+  "date": 1650396923154,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "DarkGreen"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "PurpleGradient"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

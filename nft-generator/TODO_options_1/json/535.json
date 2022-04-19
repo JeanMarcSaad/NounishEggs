@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #535",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/535.png",
+  "dna": "6172da8796d75cadf6bafcf634097fb296f3172a",
+  "edition": 535,
+  "date": 1650396964976,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "greenspace"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Bubble"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarered"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

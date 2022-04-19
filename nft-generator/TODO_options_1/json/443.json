@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #443",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/443.png",
+  "dna": "8912ddcb21f5c8a79e559791dd3f5c70025e0e43",
+  "edition": 443,
+  "date": 1650396926501,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareblue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

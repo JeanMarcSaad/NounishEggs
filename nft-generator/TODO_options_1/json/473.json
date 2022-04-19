@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #473",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/473.png",
+  "dna": "90aebea5a67fa1b4827e8016785bc95aac0ed2ad",
+  "edition": 473,
+  "date": 1650396939032,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "holographic"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "GradientSpots1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquaresmoke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

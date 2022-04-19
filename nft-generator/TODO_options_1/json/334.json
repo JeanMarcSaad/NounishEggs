@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #334",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/334.png",
+  "dna": "919ca08622628664098d2a41c1a64c55880b17ef",
+  "edition": 334,
+  "date": 1650396880791,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "PinkSpotscopy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

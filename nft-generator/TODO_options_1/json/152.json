@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #152",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/152.png",
+  "dna": "ca752bf6160eb14fdfd03352da7a54aff6629cfa",
+  "edition": 152,
+  "date": 1650396802586,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareblack"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "VampireToadMouth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #81",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/81.png",
+  "dna": "c430b938d3024ca81aa0cb06b65f1bd40d5bfed6",
+  "edition": 81,
+  "date": 1650396772348,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "NGMI"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Duo"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "DotPurple"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarebluemedsaturated"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

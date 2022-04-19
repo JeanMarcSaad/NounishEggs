@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #285",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/285.png",
+  "dna": "1accf6dfbe1b0fc944ddd3e833a923c3e1ac9bb9",
+  "edition": 285,
+  "date": 1650396859939,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "DotsRainbow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarebluemedsaturated"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

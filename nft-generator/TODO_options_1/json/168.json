@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #168",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/168.png",
+  "dna": "435518290ccdc14c13eaca277332102942844746",
+  "edition": 168,
+  "date": 1650396809447,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Multicolor1"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquaregreylight"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #319",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/319.png",
+  "dna": "6372453670eb66b59619d942941dfe1fde67be59",
+  "edition": 319,
+  "date": 1650396874495,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Eggenza"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareteal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

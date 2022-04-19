@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #78",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/78.png",
+  "dna": "9c3ed64a5d57ce9b7dd393c4342f1946e196d9db",
+  "edition": 78,
+  "date": 1650396771017,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "bguniversefoam_copy"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Striped1"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "BlackSpots"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareteal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

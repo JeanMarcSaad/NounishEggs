@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #505",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/505.png",
+  "dna": "3d3e95ee27a845a4486000e7ac8bf5359e68cb69",
+  "edition": 505,
+  "date": 1650396952439,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "holographic"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarepinkpurplemulti"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

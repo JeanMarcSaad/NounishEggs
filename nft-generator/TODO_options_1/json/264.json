@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #264",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/264.png",
+  "dna": "7883578e30a409ac8cb26e048d7b7833ffc3752b",
+  "edition": 264,
+  "date": 1650396850827,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "bguniversefoam"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareorange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

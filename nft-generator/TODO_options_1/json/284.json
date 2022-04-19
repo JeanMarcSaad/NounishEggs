@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #284",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/284.png",
+  "dna": "6e22e7cbb2fa788ff994982ea986686b65e28147",
+  "edition": 284,
+  "date": 1650396859507,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Boney"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "PinkSpotscopy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareorange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #513",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/513.png",
+  "dna": "69d6924e41a6aa427695e07491240f08c489d81d",
+  "edition": 513,
+  "date": 1650396955761,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarefullblack"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

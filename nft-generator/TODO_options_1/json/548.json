@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #548",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/548.png",
+  "dna": "2fc6817e038afdce2f57076b490d42345da297fa",
+  "edition": 548,
+  "date": 1650396970403,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "RainbowSpotscopy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareblackeyesred"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

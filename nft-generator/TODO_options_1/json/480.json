@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #480",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/480.png",
+  "dna": "acb2bb1f46e0e353d6e816f8fd7fdedf457e9497",
+  "edition": 480,
+  "date": 1650396941940,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Duo"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "RainbowSpotscopy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquarebluemedsaturated"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

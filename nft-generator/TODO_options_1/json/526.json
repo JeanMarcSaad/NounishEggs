@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #526",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/526.png",
+  "dna": "e5237d9a3c8455e5db87bbc0ad038e6704a8bee1",
+  "edition": 526,
+  "date": 1650396961195,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Fuscia"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareorange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

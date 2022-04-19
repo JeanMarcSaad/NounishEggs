@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #380",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/380.png",
+  "dna": "bfbcbaf54f9e6bddd9a0c3e601bd85246be1afee",
+  "edition": 380,
+  "date": 1650396900013,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Fuscia"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "GradientSpots1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquaremagenta"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

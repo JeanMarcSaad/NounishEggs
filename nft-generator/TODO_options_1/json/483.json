@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #483",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/483.png",
+  "dna": "67c4c270fcec514887886cbc8551b353bdf6bb5c",
+  "edition": 483,
+  "date": 1650396943207,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "NGMI"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquaregreylight"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

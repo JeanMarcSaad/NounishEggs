@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #365",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/365.png",
+  "dna": "22da7c74110c3306c3c4c0a8d3b757157c3be5ba",
+  "edition": 365,
+  "date": 1650396893762,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "bguniversefoam"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquaregreylight"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

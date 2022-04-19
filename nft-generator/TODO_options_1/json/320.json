@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #320",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/320.png",
+  "dna": "bd054172944a3652bd00992048e0a67574e69c3d",
+  "edition": 320,
+  "date": 1650396874930,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "WhiteStripes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "PurpleGradient"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

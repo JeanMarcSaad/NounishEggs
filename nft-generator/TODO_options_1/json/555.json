@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #555",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/555.png",
+  "dna": "ca7fe7804159e37e62e0e6aeaea303ca9a11145e",
+  "edition": 555,
+  "date": 1650396973303,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "Fuscia"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquareblackeyesred"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #463",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/463.png",
+  "dna": "318b3af545436988dd8d5a45f890e88c719cc0d9",
+  "edition": 463,
+  "date": 1650396934889,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "NGMI"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "PurpleGradient"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

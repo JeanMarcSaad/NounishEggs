@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #550",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/550.png",
+  "dna": "bba90cc938e2614c45d6c7de48392a24d946d136",
+  "edition": 550,
+  "date": 1650396971239,
+  "attributes": [
+    {
+      "trait_type": "Bgs",
+      "value": "holographic"
+    },
+    {
+      "trait_type": "Eggs",
+      "value": "Boney"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "TopHat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glassessquaresmoke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
