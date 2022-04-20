@@ -14,8 +14,8 @@ function App() {
         <h1 className="App-title">Nounish Eggs</h1>
         <p className="App-description">Happiest Easter to Everyone! 🐰<br/><br/>  <b>555</b> Nounish Eggs.<br/>Created by <b><a href="https://worldofnoun.com/">World of Noun</a></b></p>
         <img src={logo} className="App-logo" alt="logo" />
-        <p className="App-description">Supply: <b>555</b>.<br/>2x Free Claims per World of Noun Holder.<br/>Unclaimed + Rest: <b>0.011Ξ</b><br/></p>
-        <Mint></Mint>
+        <p className="App-description">Supply: <b>555</b>.<br/>Free Mint.<br/></p>
+        <h3 style={{fontFamily: "PixelBit"}}>SOLD OUT</h3>
         <footer className="App-Footer">
         <img src={OS} onClick={() => window.open("https://opensea.io/collection/nounish-eggs", '_blank').focus()}></img>
         <img src={ES} onClick={() => window.open("https://etherscan.io/address/0x8b5065c5354d1EC05d28cc9Fceafe18783C59F69", '_blank').focus()}></img>

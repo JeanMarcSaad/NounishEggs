@@ -1,0 +1,20 @@
+{
+    "name": "Nounish Eggs #555",
+    "description": "Just a nounish !egg ⌐◨-◨",
+    "image": "ipfs://NewUriToReplace/555.gif",
+    "dna": "8077a72856f35abaf743f45d3e26d639215aaf38",
+    "edition": 555,
+    "date": 1650540510330,
+    "Artist": "World of Noun",
+    "attributes": [
+      {
+        "trait_type": "Legendary",
+        "value": "1/1"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Greta Gremplin"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }

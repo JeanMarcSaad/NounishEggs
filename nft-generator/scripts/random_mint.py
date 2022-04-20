@@ -1,7 +1,7 @@
 import os
 import random
 
-mint_amount = 2
+mint_amount = 20
 
 images = os.listdir('./../build/images/')
 

@@ -32,7 +32,7 @@ body {
 
 .App-Footer {
   position: absolute;
-  bottom: 0;
+  top: 0;
   width: 100%;
   min-height: 5vh;
 

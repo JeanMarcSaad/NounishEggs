@@ -5,8 +5,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
+const namePrefix = "Nounish Eggs";
+const description = "Just a nounish !egg ⌐◨-◨";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
@@ -76,7 +76,9 @@ const background = {
   default: "#000000",
 };
 
-const extraMetadata = {};
+const extraMetadata = {
+  "Artist": "World of Noun"
+};
 
 const rarityDelimiter = "#";
 

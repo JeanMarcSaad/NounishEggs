@@ -12,8 +12,9 @@ if (typeof window.ethereum == 'undefined') {
 }
 
 const contract_address = "0x8b5065c5354d1EC05d28cc9Fceafe18783C59F69"
-const mintPrice = 0.011;
-const public_sale = false;
+
+const mintPrice = 0;
+const public_sale = true;
 
 const Mint = () => {
     const [nextId, setNextId] = useState(-1);
@@ -26,18 +27,17 @@ const Mint = () => {
     const [error, setError] = useState("");
     const [address, setAddress] = useState("");
     const mintSelect = useRef(null);
-    const options = [...Array(2)].map((_, i) => {
+    const options = [...Array(9)].map((_, i) => {
         return {value: i+1, label: i+1};
     });
 
     useEffect(() => {
-    }, []);
+        setMintCost((mintCount*mintPrice).toFixed(3));
+    }, [mintCount]);
 
     const handleSelectChange = (event) => {
         setMintCount(event.target.value);
-        f0?.mintCost(inviteKey, 2)
-        .then(()=>console.log(test))
-        .catch((error) => console.log(error))
+        setMintCost((event.target.value*mintPrice).toFixed(3));
     }
 
     const connectWallet = () => {
@@ -50,8 +50,12 @@ const Mint = () => {
             let inviteKeys = Object.keys(invites);
             if (!public_sale && inviteKeys.length === 0)
                 setIsWhitelisted(false);
+            
             if (inviteKeys.length > 0)
                 setInviteKey(inviteKeys[0]);
+            if (public_sale)
+                setInviteKey(null);
+
             let nextId = await f0.nextId();
             setNextId(nextId);
             setAddress(f0.account);
@@ -68,6 +72,7 @@ const Mint = () => {
         })
         .catch((error) => {
             setIsMinting(false);
+            setMintCount(1);
             setError(error.message);
         })
     }
@@ -98,7 +103,7 @@ const Mint = () => {
                         </div>  
                         : <div className="mint-error"><p>Sorry, your address is not whitelisted.</p></div>
                     }
-                    {isWhitelisted&&<div className="mint-error"><p>Total: {mintCost}Ξ<br/>Limit 2 per address.<br/><span style={{color: "red"}}>{error}</span></p></div>}
+                    {isWhitelisted&&<div className="mint-error"><p>Total: {mintCost}Ξ<br/><span style={{color: "red"}}>{error}</span></p></div>}
                 </div>
             }
         </div>
